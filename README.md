@@ -1,2 +1,2 @@
 # Scratch
-Scratch Repo to learn Git
+Scratch Repo to learn Gits
